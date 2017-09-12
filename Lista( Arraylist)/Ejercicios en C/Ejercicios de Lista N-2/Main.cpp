@@ -8,8 +8,8 @@
  * File:   Main.c++
  * Author: Michael Daniel Murillo López
  * Estrutura de Datos
- * ID:534830 Corporación
- * Universitaria Minuto de Dios - UNIMINUTO 
+ * ID:534830 
+ * Corporación Universitaria Minuto de Dios - UNIMINUTO 
  * NRC:7273
  */
 /*Escribir una función Reemplazar que tenga como argumentos una pila con tipo de elemento int y dos valores int:
